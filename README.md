@@ -3,6 +3,7 @@
 <!--
 **britishkenyan/britishkenyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+#### I enjoy the process of solving tough business problems with data, especially by thinking outside the box to boost business performance. On my GitHub, you'll find a variety of projects that showcase my expertise in Power BI, Python, Machine Learning, Data Analytics, Natural Language Processing, and Computer Vision. These projects highlight my ability to turn complex data into actionable insights. Whether it's gathering and cleaning data, building predictive models, or creating impactful visualizations, I’m all about delivering results that drive real-world success. Let's work together to turn your data into a powerful asset.
