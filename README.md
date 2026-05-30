@@ -24,15 +24,15 @@ Here are some ideas to get you started:
 !  (badege name) 
 -->
 
-<h1 align="center">Hi 👋, I'm Kimberly </h1>
-<h3 align="center">A Passionate Business - Data Scientist and ML Engineer</h3> 
+<h1 align="left">Hi 👋, I'm Kimberly </h1>
+<h3 align="left">A Passionate Business - Data Scientist and ML Engineer</h3> 
 
-<h6 align="center">I enjoy the process of solving tough business problems with data, especially by thinking outside the box to boost business performance. On my GitHub, you'll find a variety of projects that showcase my expertise in Power BI, Python, Machine Learning, Data Analytics, Natural Language Processing, and Computer Vision. These projects highlight my ability to turn complex data into actionable insights. Whether it's gathering and cleaning data, building predictive models, or creating impactful visualizations, I’m all about delivering results that drive real-world success. Let's work together to turn your data into a powerful asset.</h1>
+<h6 align="left">I enjoy the process of solving tough business problems with data, especially by thinking outside the box to boost business performance. On my GitHub, you'll find a variety of projects that showcase my expertise in Power BI, Python, Machine Learning, Data Analytics, Natural Language Processing, and Computer Vision. These projects highlight my ability to turn complex data into actionable insights. Whether it's gathering and cleaning data, building predictive models, or creating impactful visualizations, I’m all about delivering results that drive real-world success. Let's work together to turn your data into a powerful asset.</h1>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=britishkenyan&label=Profile%20views&color=0e75b6&style=flat" alt="britishkenyan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=britishkenyan&label=Profile%20views&color=0e75b6&style=flat" alt="britishkenyan" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=britishkenyan" alt="britishkenyan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=britishkenyan" alt="britishkenyan" /></a> </p>
 
 
 - 🔭 I’m currently working on [Washington Human Resource Analytics, Saas, Portfolio](https://github.com/HRanalytics/HRanalytics)
