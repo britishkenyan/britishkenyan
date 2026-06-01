@@ -41,7 +41,9 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on [Healthcare Claims Fraud Detection](https://github.com/healthcarefrauddetection/healthcarefrauddetection)
 
-- 👨‍💻 All of my projects are available at [britishkenyan.github.io](britishkenyan.github.io)
+- 👨‍💻 Some of my projects:
+  - [Pamperbook Pro](https://apps.apple.com/us/app/pamperbook-pro/id6447962135)
+  - [SilverCloud](https://www.silvercloudservices.co.uk/)
 
 - 📝 I regularly write articles on [www.medium.com/britishkenyan](www.medium.com/britishkenyan)
 
